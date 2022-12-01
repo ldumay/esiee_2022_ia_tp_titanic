@@ -1,6 +1,6 @@
 # ESIEE - 2022 - IA - Titanic - TP
  
-## ---
+## Pré-requis
 
 ### Installation des dépendances
 
