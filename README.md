@@ -1,6 +1,6 @@
 # ESIEE - 2022 - IA - Titanic - TP
  
-## Jupyter
+## Jupyter - Installation des dépendances
 
 [source](https://jupyter.org/install)
 
@@ -31,3 +31,16 @@ jupyter-lab
 Ouvrir normalement automatique une page web : http://localhost:8888/lab.
 
 ![image](_img/001.png)
+
+### Installation des librairies
+
+```
+pip3 install pandas
+pip3 install pandas-profiling
+pip3 install random-forest-mc
+pip3 install scikit-learn
+```
+
+## 
+
+- Nouveau Notebook
