@@ -1,32 +1,33 @@
 # ESIEE - 2022 - IA - Titanic - TP
  
-## Pré-requis
+## Jupyter
 
-### Installation des dépendances
+[source](https://jupyter.org/install)
 
-Mise à jour de pip.
-Installation de la librairie Jupyter
-Installation de la librairie Notebook
-Installation de la librairie Voilà
+### Mise à jour de pip.
 
 ```
 pip3 install --upgrade pip
-pip3 install jupyter-lab
-pip3 install notebook
-pip3 install voila
 ```
 
-Mise à jour de pip.
-Installation de la librairie Jupyter
-Installation de la librairie Notebook
-Installation de la librairie Voilà
+### Installation de la librairie Jupyter
 
-[source](https://jupyter.org/install)
+```
+pip3 install jupyterlab
+```
+
+### Construction de Jupyter
+
+```
+jupyter lab build
+```
 
 ### Démarrer Jupyter
 
 ```
-jupyter notebook
+jupyter-lab
 ```
 
-Ouvrir normalement automatique une page web : http://localhost:8888/tree.
+Ouvrir normalement automatique une page web : http://localhost:8888/lab.
+
+![image](_img/001.png)
