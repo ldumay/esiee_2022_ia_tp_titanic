@@ -62,3 +62,8 @@ Un document Jupyter Notebook est un document JSON. Il suit un schéma contenant 
 ![model_notebook](_img/003.png)
 
 > Fichier de démo --> [**notebook_001.ipynb**](notebook_001.ipynb)
+
+## 2.2 - Notebook disponibles
+
+1. [**notebook_001.ipynb**](notebook_001.ipynb)
+2. [**notebook_002.ipynb**](notebook_002.ipynb)
