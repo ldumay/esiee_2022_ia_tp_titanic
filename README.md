@@ -1,38 +1,25 @@
 # ESIEE - 2022 - IA - TP - Titanic
  
-## 1 - Jupyter - Installation des dépendances
+## 1 - Installation de Jupyter
 
-[source](https://jupyter.org/install)
-
-### 1.1 - Mise à jour de pip.
+### 1.1 - Préparation de l'environement
 
 ```
-pip3 install --upgrade pip
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
-### 1.2 - Installation de la librairie Jupyter
+> Si besoin : [source de jupyter](https://jupyter.org/install)
 
-```
-pip3 install jupyterlab
-```
-
-### 1.3 - Installation de librairies utiles
-
-```
-pip3 install pandas
-pip3 install pandas-profiling
-pip3 install random-forest-mc
-pip3 install scikit-learn
-pip3 install shap
-```
-
-### 1.4 - Construction de Jupyter
+### 1.2 - Construction de Jupyter
 
 ```
 jupyter lab build
 ```
 
-### 1.5 - Démarrer Jupyter
+### 1.3 - Démarrer Jupyter
 
 ```
 jupyter-lab
