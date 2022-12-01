@@ -1,4 +1,4 @@
-# ESIEE - 2022 - IA - Titanic - TP
+# ESIEE - 2022 - IA - TP - Titanic
  
 ## 1 - Jupyter - Installation des dépendances
 
