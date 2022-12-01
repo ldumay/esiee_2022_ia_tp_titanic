@@ -23,6 +23,7 @@ pip3 install pandas
 pip3 install pandas-profiling
 pip3 install random-forest-mc
 pip3 install scikit-learn
+pip3 install shap
 ```
 
 ### 1.4 - Construction de Jupyter
