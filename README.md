@@ -1,5 +1,9 @@
 # ESIEE - 2022 - IA - TP - Titanic
- 
+
+## Pré-requis
+
+Python : **>=3.7** - **<3.11**
+
 ## 1 - Installation de Jupyter
 
 ### 1.1 - Préparation de l'environement
