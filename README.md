@@ -1,4 +1,4 @@
-# ESIEE - 2022 - IA - TP - Titanic
+# ESIEE-IT - 2022 - IA - TP - Titanic
 
 ## Pré-requis
 
