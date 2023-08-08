@@ -1,6 +1,6 @@
 # ESIEE-IT - 2022 - IA - TP - Titanic
 
-> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/esiee-it_2022_ia_tp_titanic](https://github.com/2023-esiee-projectlab/esiee-it_2022_ia_tp_titanic)**
+> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/M2_ia_tp_titanic](https://github.com/2023-esiee-projectlab/M2_ia_tp_titanic)**
 
 ## Pré-requis
 
